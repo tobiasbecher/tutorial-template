@@ -15,6 +15,8 @@ how to :ref:`installation` the project.
 
 This is a great new addition to the documentation!
 
+And another great new addition to the documentation!
+
 Contents
 --------
 
